@@ -18,6 +18,7 @@
 * Added support for Vector3int16.
 * Added support for BinaryString values.
 * Added Instance:GetDescendants().
+* Added :GetAttribute and :SetAttribute for supported values.
 
 [#25]: https://github.com/rojo-rbx/remodel/issues/25
 
